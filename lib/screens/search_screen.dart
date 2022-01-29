@@ -76,13 +76,18 @@ class _SearchPageState extends State<SearchPage> {
                     itemCount: (snapshot.data! as dynamic).docs.length,
                     itemBuilder: (context, index) {
                       return InkWell(
-                        onTap: () => Navigator.of(context).push(
-                          MaterialPageRoute(
-                            builder: (context) => ProfilePage(
-                                uid: (snapshot.data! as dynamic).docs[index]
-                                    ['uid']),
-                          ),
-                        ),
+                        onTap: () {
+                          Navigator.of(context).push(
+                            MaterialPageRoute(
+                              builder: (context) => ProfilePage(
+                                  uid: (snapshot.data! as dynamic).docs[index]
+                                      ['uid']),
+                            ),
+                          );
+                          setState(() {
+                            showUsers = false;
+                          });
+                        },
                         child: ListTile(
                           leading: CircleAvatar(
                             backgroundImage: NetworkImage(
