@@ -10,6 +10,6 @@ class Followers extends StatefulWidget {
 class _FollowersState extends State<Followers> {
   @override
   Widget build(BuildContext context) {
-    return Container();
+    return const Text('Followers Page');
   }
 }
