@@ -22,3 +22,4 @@
 ### Technologies Used
 
 - firebase
+- flutter
