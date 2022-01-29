@@ -1,6 +1,6 @@
 import 'package:firebase_auth/firebase_auth.dart';
 import 'package:flutter/material.dart';
-import 'package:instagram_clone_flutter_firebase/screens/initial_screen.dart';
+import 'package:instagram_clone_flutter_firebase/screens/welcome_screen.dart';
 import 'package:instagram_clone_flutter_firebase/utils/utils.dart';
 
 class PasswordChange extends StatefulWidget {

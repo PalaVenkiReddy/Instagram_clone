@@ -5,7 +5,7 @@ import 'package:instagram_clone_flutter_firebase/resources/auth_fun.dart';
 import 'package:instagram_clone_flutter_firebase/resources/follow_methods.dart';
 import 'package:instagram_clone_flutter_firebase/screens/change_password.dart';
 import 'package:instagram_clone_flutter_firebase/screens/editprofile_screen.dart';
-import 'package:instagram_clone_flutter_firebase/screens/initial_screen.dart';
+import 'package:instagram_clone_flutter_firebase/screens/welcome_screen.dart';
 import 'package:instagram_clone_flutter_firebase/utils/utils.dart';
 
 class ProfilePage extends StatefulWidget {

@@ -6,7 +6,7 @@ import 'package:instagram_clone_flutter_firebase/providers/user_provider.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/mobile_screen.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/responsive_screen.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/web_screen.dart';
-import 'package:instagram_clone_flutter_firebase/screens/initial_screen.dart';
+import 'package:instagram_clone_flutter_firebase/screens/welcome_screen.dart';
 import 'package:provider/provider.dart';
 
 Future<void> main() async {

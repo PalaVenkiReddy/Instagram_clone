@@ -6,7 +6,7 @@ import 'package:instagram_clone_flutter_firebase/resources/auth_fun.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/mobile_screen.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/responsive_screen.dart';
 import 'package:instagram_clone_flutter_firebase/responsive/web_screen.dart';
-import 'package:instagram_clone_flutter_firebase/screens/initial_screen.dart';
+import 'package:instagram_clone_flutter_firebase/screens/welcome_screen.dart';
 import 'package:instagram_clone_flutter_firebase/screens/login_screen.dart';
 import 'package:instagram_clone_flutter_firebase/utils/utils.dart';
 import 'package:instagram_clone_flutter_firebase/widgets/textfield.dart';
