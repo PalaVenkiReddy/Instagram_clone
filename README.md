@@ -1,6 +1,6 @@
 # Instagram Clone
 
-### Completely Responsive Instagram Clone App created using flutter and firebase - works on Android & web
+## Completely Responsive Instagram Clone App created using flutter and firebase - works on Android & web
 
 ### Features
 
