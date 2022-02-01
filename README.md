@@ -25,5 +25,5 @@
 
 ### Technologies Used
 
-- firebase
-- flutter
+- [firebase](https://firebase.google.com/docs)
+- [flutter](https://docs.flutter.dev/)
