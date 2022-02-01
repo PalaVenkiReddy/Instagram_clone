@@ -25,5 +25,6 @@
 
 ### Technologies Used
 
+- [dart](https://dart.dev/guides)
 - [firebase](https://firebase.google.com/docs)
 - [flutter](https://docs.flutter.dev/)
