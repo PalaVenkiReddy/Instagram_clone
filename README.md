@@ -15,7 +15,7 @@
 - displaying posts, followers & following on profile page
 - dm Page with registered users
 - favorites page with recent activities
-- Edit Profile
+- Edit Profile Page
 - Reset Password
 - Sign Out
 
