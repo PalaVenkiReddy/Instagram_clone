@@ -1,8 +1,13 @@
 # Instagram Clone
 
-## Completely Responsive Instagram Clone App created using flutter and firebase - works on Android & web
+#### Video Demo
+- [Instagram Clone](https://youtu.be/Weoo4S8Yr5U)
 
-### Features
+#### Description
+
+#### Completely Responsive Instagram Clone App created using flutter and firebase - works on Android & web
+
+#### Features
 
 - Responsive Instagram UI
 - Email and Password Authentication
@@ -19,14 +24,9 @@
 - Reset Password
 - Sign Out
 
-### Google drive Link
 
-- [Instagram Clone](https://drive.google.com/file/d/1BvBAgU7eJiJCuPMmAkzy87xb4-XJmATK/view?usp=drivesdk)
 
-### Youtube link
-- [Instagram Clone](https://youtu.be/Weoo4S8Yr5U)
-
-### Technologies Used
+#### Technologies Used
 
 - [dart](https://dart.dev/guides)
 - [firebase](https://firebase.google.com/docs)
